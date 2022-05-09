@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com/caeserlondon/Media-hub.git"
+		"url": "git+ssh://git@github.com/caeserlondon/caeser-tours.git"
 	},
 	"keywords": [
 		"backend-server"
@@ -18,9 +18,9 @@
 	"author": "Caeser London",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/caeserlondon/Media-hub/issues"
+		"url": "https://github.com/caeserlondon/caeser-tours/issues"
 	},
-	"homepage": "https://github.com/caeserlondon/Media-hub#readme",
+	"homepage": "https://github.com/caeserlondon/caeser-tours#readme",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
 		"cors": "^2.8.5",
