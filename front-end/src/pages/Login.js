@@ -87,6 +87,14 @@ const Login = () => {
 						</MDBValidationItem>
 						<div className="col-12">
 							<MDBBtn style={{ width: '100%' }} className="mt-2">
+								{loading && (
+									<MDBSpinner
+										size="sm"
+										role="status"
+										tag="span"
+										className="me-2"
+									/>
+								)}
 								Login
 							</MDBBtn>
 						</div>
