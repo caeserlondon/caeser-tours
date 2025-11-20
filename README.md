@@ -20,6 +20,16 @@
 
 ---
 
+## 🔐 Security & Compliance
+
+- All user inputs are sanitized to prevent NoSQL injection
+- Rate limiting protects against brute-force attacks
+- HTTP headers are hardened with Helmet
+- Passwords are hashed using bcryptjs
+- JSON Web Tokens (JWT) secure authenticated sessions
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer               | Technology                                                                                                     |
@@ -31,16 +41,6 @@
 | **Utilities**       | Axios, Body Parser, Cookie Parser, Dotenv, Morgan, Multer, Nodemailer, Sharp, Slugify, Validator, HTML-to-Text |
 | **Dev Tools**       | Nodemon, Babel Polyfill                                                                                        |
 | **Hosting**         | Deployable on any Node-compatible platform (e.g., Render, Railway, AWS)                                        |
-
----
-
-## 🔐 Security & Compliance
-
-- All user inputs are sanitized to prevent NoSQL injection
-- Rate limiting protects against brute-force attacks
-- HTTP headers are hardened with Helmet
-- Passwords are hashed using bcryptjs
-- JSON Web Tokens (JWT) secure authenticated sessions
 
 ---
 
