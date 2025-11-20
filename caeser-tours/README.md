@@ -1,10 +1,12 @@
-# Caeser’s Tours 🌍
+<p align="center">
+  <img src="public/img/logo.png" width="350" title="logo">
+</p>
 
-## Try our travel experiences across Europe and the USA, powered by server-side rendering and robust backend architecture
-
-**Caeser’s Tours** is a full-stack web application designed to showcase travel tours across Europe and the USA. Built with a focus on performance, security, and accessibility, the site delivers fast, SEO-friendly content using server-side rendering (SSR) and a scalable Node.js + MongoDB backend.
+**Caeser’s Tours 🌍** is a full-stack web application designed to showcase travel tours across Europe and the USA. Built with a focus on performance, security, and accessibility, the site delivers fast, SEO-friendly content using server-side rendering (SSR) and a scalable Node.js + MongoDB backend.
 
 ---
+
+#### Powered by server-side rendering and robust backend architecture
 
 ## 🚀 Features
 
@@ -41,6 +43,12 @@
 | **Utilities**       | Axios, Body Parser, Cookie Parser, Dotenv, Morgan, Multer, Nodemailer, Sharp, Slugify, Validator, HTML-to-Text |
 | **Dev Tools**       | Nodemon, Babel Polyfill                                                                                        |
 | **Hosting**         | Deployable on any Node-compatible platform (e.g., Render, Railway, AWS)                                        |
+
+---
+
+📄 Author
+Caeser Ibrahim
+Full Stack Developer UK, London
 
 ---
 
