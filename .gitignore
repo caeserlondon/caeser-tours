@@ -7,6 +7,7 @@ front-end
 .cache/
 .pnp
 .pnp.js
+.gitignore
 
 # testing
 coverage
