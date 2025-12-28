@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="caeser-tours/public/img/logo.png" width="350" title="logo">
+  <img src="caeser-tours/public/img/logo.png" width="250" title="logo">
   <img src="caeser-tours/public/img/image-1.png" width="650" title="homepage">
 </p>
 
 <p align="center">
-  <img src="caeser-tours/public/img/image-2.png" width="350" title="homepage2">
-  <img src="caeser-tours/public/img/image-3.png" width="350" title="homepage3">
-  <img src="caeser-tours/public/img/image-4.png" width="350" title="homepage4">
+  <img src="caeser-tours/public/img/image-2.png" width="250" title="homepage2">
+  <img src="caeser-tours/public/img/image-3.png" width="250" title="homepage3">
+  <img src="caeser-tours/public/img/image-4.png" width="250" title="homepage4">
 </p>
 
 **Caeser’s Tours 🌍** is a full-stack web application designed to showcase travel tours across Europe and the USA. Built with a focus on performance, security, and accessibility, the site delivers fast, SEO-friendly content using server-side rendering (SSR) and a scalable Node.js + MongoDB backend.
